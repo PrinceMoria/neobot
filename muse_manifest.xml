@@ -1,0 +1,28 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://princemoria.github.io/neobot" resolutions="1x" timestamp="1544927089197">
+  <folder name="css">
+    <file name="site_global.css" crc="4085801442"/>
+    <file name="index.css" crc="3919387545" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="misaki tiled.jpg" crc="3817266130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="retard.jpg" crc="3778970885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u239-7.png" crc="4130108600" ref="index"/>
+    <file name="u258-4.png" crc="128490602" ref="index"/>
+    <file name="u261-4.png" crc="4279744533" ref="index"/>
+    <file name="u283-5.png" crc="4174463784" ref="index"/>
+    <file name="u303-4.png" crc="499844406" ref="index"/>
+  </folder>
+  <file name="index.html" crc="263328123" seo="true" mt="1544926967050" redirect="true"/>
+</manifest>
